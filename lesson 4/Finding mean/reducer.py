@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import sys, datetime
+import sys
 
 # Reducer - Average sales per day of the week
 
